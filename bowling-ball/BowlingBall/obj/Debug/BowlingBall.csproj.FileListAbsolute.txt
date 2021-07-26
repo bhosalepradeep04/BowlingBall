@@ -1,0 +1,5 @@
+C:\Pradeep\Personal\Test\code-starter-kits\bowling-ball\BowlingBall\bin\Debug\BowlingBall.dll
+C:\Pradeep\Personal\Test\code-starter-kits\bowling-ball\BowlingBall\bin\Debug\BowlingBall.pdb
+C:\Pradeep\Personal\Test\code-starter-kits\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csprojAssemblyReference.cache
+C:\Pradeep\Personal\Test\code-starter-kits\bowling-ball\BowlingBall\obj\Debug\BowlingBall.dll
+C:\Pradeep\Personal\Test\code-starter-kits\bowling-ball\BowlingBall\obj\Debug\BowlingBall.pdb
